@@ -43,8 +43,8 @@
 ![](https://github-profile-trophy.vercel.app/?username=Antonio-Bellifemine&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
 
-<h3>Latest Tweets</h3>
-<p><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="github-readme-twitter"><a href="https://twitter.com/cousinanthony"></a></p>
+<h3>Let's be friends on instagram</h3>
+<p><img height="40" src="./assets/header.png"" alt="github-readme-instagram"><a href="https://www.instagram.com/cousinanthony/"></a></p>
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/Antonio-Bellifemine/Antonio-Bellifemine)
 ![pv](https://pageview.vercel.app/?github_user=Antonio-Bellifemine)
