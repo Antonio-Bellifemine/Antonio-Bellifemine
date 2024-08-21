@@ -6,7 +6,7 @@
     
 ## Languages & Tools
 
-<div align="justify">
+<div align="justify" width="500">
 <code><img height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"></code>
