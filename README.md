@@ -1,4 +1,4 @@
-<p align="center"><a href="https://Antonio-Bellifemine.github.io"><img width="80%" alt="Hello, I'm Antonio.!" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://Antonio-Bellifemine.github.io"><img width="80%" alt="Hello, I'm Antonio.!" src="./assets/header.png" /></a></p>
 
 <img align="right" alt="GIF" src="https://github.com/Antonio-Bellifemine/Antonio-Bellifemine/blob/main/assets/QA%20Gif.gif?raw=true" width="500" height="300" />
 
