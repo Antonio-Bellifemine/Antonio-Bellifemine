@@ -3,7 +3,9 @@
     <div align="justify">
         <img alt="GIF" src="./assets/retro-coder.gif?raw=true" width="700" height="400" />
     </div>
+    
 ## Languages & Tools
+
 <div align="justify">
 <code><img height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg"></code>
