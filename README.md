@@ -44,7 +44,7 @@
 
 
 <h3>Let's be friends on instagram</h3>
-<p><img height="40" src="./assets/insta-icon.webp"" alt="github-readme-instagram"><a href="https://www.instagram.com/cousinanthony/"></a></p>
+<p><img height="40" src="./assets/insta-icon.png"" alt="github-readme-instagram"><a href="https://www.instagram.com/cousinanthony/"></a></p>
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/Antonio-Bellifemine/Antonio-Bellifemine)
 ![pv](https://pageview.vercel.app/?github_user=Antonio-Bellifemine)
