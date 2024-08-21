@@ -31,7 +31,7 @@ I'm [Antonio], a passionate self-taught QA Engineer from Florida.
 - 💬 ask me about anything, I am happy to help;
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Antonio-Bellifemine&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MitkoVtori&include_all_commits=true&theme=aura)](https://github.com/Antonio-Bellifemine/github-readme-stats)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Antonio-Bellifemine&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Antonio-Bellifemine&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
