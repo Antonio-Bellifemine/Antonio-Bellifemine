@@ -6,15 +6,17 @@
     
 **About me**
 
-- 💼 Sr. QA Automation Engineer
+🔵 💼 Sr. QA Automation Engineer
 
-- 🥋 Brazilian Jiu Jitsu Black Belt
+🟢 🥋 Brazilian Jiu Jitsu Black Belt
 
-- ❤️ I love Automation, testing, coding, and building custom automation frameworks
+🔵 ❤️ I love Automation, testing, coding, and building custom automation frameworks
 
-- 🤖 I build Generative Ai testing & Automation frameworks.
+🟢 🤖 I build Generative Ai testing & Automation frameworks.
 
-- 💬 ask me about anything, I am happy to help if I can 🫡 [here](https://github.com/Antonio-Bellifemine/Antonio-Bellifemine/issues)
+🔵 💬 ask me about anything, I am happy to help if I can 🫡 [here](https://github.com/Antonio-Bellifemine/Antonio-Bellifemine/issues)
+
+🟢 💼 Questions, offers, or just say hi --> [Email](mailto:abellifemine@proton.me) 📧
 
 ## Languages & Tools
 
@@ -50,7 +52,6 @@
 <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg"></code>
 <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg"></code>
 
-- 💼 Questions, offers, or just say hi --> [Email](mailto:abellifemine@proton.me) 📧
 
 ## 📊 GitHub Stats:
 [![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Antonio-Bellifemine&include_all_commits=true&hide_rank=true&theme=aura)](https://github.com/Antonio-Bellifemine/github-readme-stats)
