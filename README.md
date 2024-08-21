@@ -44,7 +44,7 @@
 
 
 <h3>Latest Tweets</h3>
-<p><a height="30" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg">href="https://twitter.com/cousinanthony"><img src="" alt="github-readme-twitter"></a></p>
+<p><a href="https://twitter.com/cousinanthony"><img src="src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg;layout=wide" alt="github-readme-twitter"></a></p>
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/Antonio-Bellifemine/Antonio-Bellifemine)
 ![pv](https://pageview.vercel.app/?github_user=Antonio-Bellifemine)
