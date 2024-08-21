@@ -31,7 +31,7 @@
 <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg"></code>
 <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg"></code>
 
-- 💼 Questions, offers, or just say hi --> email me [email](mailto:abellifemine@proton.me) :)
+- 💼 Questions, offers, or just say hi --> email me [HERE](mailto:abellifemine@proton.me) :)
 - 💬 ask me about anything, I am happy to help if I can;
 
 ## 📊 GitHub Stats:
