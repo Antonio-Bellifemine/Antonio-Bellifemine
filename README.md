@@ -1,7 +1,7 @@
 <p align="center"><a href="https://Antonio-Bellifemine.github.io"><img width="80%" alt="Hello, I'm Antonio.!" src="./assets/header.png" /></a></p>
 <img align="right" alt="GIF" src="https://github.com/Antonio-Bellifemine/Antonio-Bellifemine/blob/main/assets/QA%20Gif.gif?raw=true" width="500" height="300" />
 
-# Languages & Tools
+## Languages & Tools
 <code><img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg"></code>
 <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"></code>
