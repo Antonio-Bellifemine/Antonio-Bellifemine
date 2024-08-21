@@ -11,6 +11,10 @@ I'm [Antonio], a passionate self-taught QA Engineer from Florida.
 <code><img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg"></code>
 
+<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg"></code>
+<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/cypressio/cypressio-original.svg"></code>
+<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/playwright/playwright-original.svg"></code>
+<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg"></code>
 <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"></code>
 <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg"></code>
 <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg"></code>
