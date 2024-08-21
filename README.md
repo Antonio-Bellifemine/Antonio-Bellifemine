@@ -27,11 +27,11 @@ I'm [Antonio], a passionate self-taught QA Engineer from Florida.
 <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg"></code>
 <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg"></code>
 
-- 💼 any query? do reach, [email](mailto:abellifemine@proton.me) :)
-- 💬 ask me about anything, I am happy to help;
+- 💼 Questions, offers, or just say hi --> email me [email](mailto:abellifemine@proton.me) :)
+- 💬 ask me about anything, I am happy to help if I can;
 
 ## 📊 GitHub Stats:
-[![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Antonio-Bellifemine&include_all_commits=false&theme=aura)](https://github.com/Antonio-Bellifemine/github-readme-stats)
+[![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Antonio-Bellifemine&include_all_commits=true&hide_rank=true&theme=aura)](https://github.com/Antonio-Bellifemine/github-readme-stats)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Antonio-Bellifemine&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Antonio-Bellifemine&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
