@@ -31,8 +31,8 @@
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg"></code>
 
-- 💼 Questions, offers, or just say hi --> [Email](mailto:abellifemine@proton.me) :)
-- 💬 ask me about anything, I am happy to help if I can;
+- 💼 Questions, offers, or just say hi --> [Email](mailto:abellifemine@proton.me) 📧
+- 💬 ask me about anything, I am happy to help if I can 🫡
 
 ## 📊 GitHub Stats:
 [![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Antonio-Bellifemine&include_all_commits=true&hide_rank=true&theme=aura)](https://github.com/Antonio-Bellifemine/github-readme-stats)
