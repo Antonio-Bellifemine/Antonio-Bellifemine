@@ -1,6 +1,6 @@
 # Hi there 👋
 
-<img align="right" alt="GIF" src="https://github.com/Antonio-Bellifemine/Antonio-Bellifemine/blob/master/assets/code.gif?raw=true" width="500" height="300" />
+<img align="right" alt="GIF" src="https://github.com/Antonio-Bellifemine/Antonio-Bellifemine/blob/main/assets/QA%20Gif.gif?raw=true" width="500" height="300" />
 
 I'm [Antonio], a passionate self-taught QA Engineer from Florida.
 
