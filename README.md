@@ -23,8 +23,6 @@
 <div>
 <code><img height="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg"></code>
 <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg"></code>
 <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain.svg"></code>
 <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/k6/k6-original.svg"></code>
 <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/mocha/mocha-original.svg"></code>
