@@ -34,7 +34,6 @@
 <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg"></code>
 <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"></code>
 <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg"></code>
-<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg"></code>
 <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg"></code>
 <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg"></code>
 <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"></code>
