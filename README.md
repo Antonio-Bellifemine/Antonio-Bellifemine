@@ -8,11 +8,11 @@
 
 - 💼 Sr. QA Automation Engineer
 
-- 🥋 Brazilian Jiu Jitsu Black Belt
-
 - ❤️ I love Automation, testing, coding, and building custom automation frameworks
 
 - 🤖 I build Generative Ai testing & Automation frameworks.
+
+- 🥋 Brazilian Jiu Jitsu Black Belt
 
 - 💬 ask me about anything, I am happy to help if I can 🫡 [here](https://github.com/Antonio-Bellifemine/Antonio-Bellifemine/issues)
 
