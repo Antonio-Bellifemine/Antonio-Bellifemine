@@ -1,5 +1,4 @@
 <p align="center"><a href="https://Antonio-Bellifemine.github.io"><img width="80%" alt="Hello, I'm Antonio.!" src="./assets/header.png" /></a></p>
-
     <div align="center">
         <img alt="GIF" src="./assets/retro-coder.gif?raw=true" width="700" height="400" />
     </div>
