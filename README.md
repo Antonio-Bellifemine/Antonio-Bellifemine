@@ -1,4 +1,4 @@
-<p align="center"><a href="https://Antonio-Bellifemine.github.io"><img width="80%" alt="Hello, I'm Antonio.!" src="./assets/header.png" /></a></p>
+<p align="center"><a href="https://Antonio-Bellifemine.github.io"><img width="80%" alt="Hello, I'm Antonio.!" src="./assets/hello.png" /></a></p>
 <!--- <img align="justify" alt="GIF" src="https://github.com/Antonio-Bellifemine/Antonio-Bellifemine/blob/main/assets/QA%20Gif.gif?raw=true" width="500" height="500" /> -->
     <div align="center">
         <img alt="GIF" src="./assets/retro-coder.gif?raw=true" width="700" height="400" />
@@ -49,15 +49,15 @@
 <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg"></code>
 <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg"></code>
 
-
 ## 📊 GitHub Stats:
+
 [![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Antonio-Bellifemine&include_all_commits=true&hide_rank=true&theme=aura)](https://github.com/Antonio-Bellifemine/github-readme-stats)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Antonio-Bellifemine&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Antonio-Bellifemine&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Antonio-Bellifemine&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
+![](https://github-profile-trophy.vercel.app/?username=Antonio-Bellifemine&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
 <h3>Let's be friends on instagram</h3>
 <p><img height="50" src="./assets/insta-icon.png"" alt="github-readme-instagram"><a href="https://www.instagram.com/cousinanthony/"></a></p>
