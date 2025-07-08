@@ -64,6 +64,3 @@
     <img height="50" src="./assets/insta-icon.png" alt="instagram-icon">
   </a>
 </p>
-
-![GitHub last commit](https://img.shields.io/github/last-commit/Antonio-Bellifemine/Antonio-Bellifemine)
-![pv](https://pageview.vercel.app/?github_user=Antonio-Bellifemine)
