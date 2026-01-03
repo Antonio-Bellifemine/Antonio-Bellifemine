@@ -6,7 +6,7 @@
     
 **About me**
 
-- :briefcasebriefcase: Quality Assurance & Automation Engineer
+- :briefcase: Quality Assurance & Automation Engineer
 
 - 🥋 Brazilian Jiu Jitsu Black Belt
 
@@ -14,7 +14,7 @@
 
 - :email: ask me about anything, I am happy to help if I can :muscle: [here](https://github.com/Antonio-Bellifemine/Antonio-Bellifemine/issues)
 
-- :briefcasebriefcase: Questions, offers, or just say hi --> [Email](mailto:abellifemine@proton.me) 📧
+- :briefcase: Questions, offers, or just say hi --> [Email](mailto:abellifemine@proton.me) 📧
 
 ## Languages & Tools
 
