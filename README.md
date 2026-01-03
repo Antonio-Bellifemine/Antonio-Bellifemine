@@ -10,6 +10,8 @@
 
 - 🥋 Brazilian Jiu Jitsu Black Belt
 
+- Co-Founder [coautho.co](https://coauthor.co/)
+
 - 💬 ask me about anything, I am happy to help if I can 🫡 [here](https://github.com/Antonio-Bellifemine/Antonio-Bellifemine/issues)
 
 - 💼 Questions, offers, or just say hi --> [Email](mailto:abellifemine@proton.me) 📧
