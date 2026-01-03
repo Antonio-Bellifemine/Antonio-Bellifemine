@@ -49,7 +49,7 @@
 <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg"></code>
 <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg"></code>
 
-## 📊 GitHub Stats:
+
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Antonio-Bellifemine&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Antonio-Bellifemine&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
