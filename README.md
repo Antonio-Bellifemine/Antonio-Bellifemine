@@ -46,7 +46,7 @@
 ## Platforms
 
 <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg"></code>
-<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg"></code>
+<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Apple_logo_grey.svg"></code>
 <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"></code>
 
 
