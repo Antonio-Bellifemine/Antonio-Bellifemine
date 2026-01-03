@@ -6,11 +6,7 @@
     
 **About me**
 
-- 💼 Sr. QA Automation Engineer
-
-- ❤️ I love Automation, testing, coding, and building custom automation frameworks
-
-- 🤖 I build Generative Ai testing & Automation frameworks.
+- 💼 Quality Assurance & Automation Engineer
 
 - 🥋 Brazilian Jiu Jitsu Black Belt
 
