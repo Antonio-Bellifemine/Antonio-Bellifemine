@@ -12,7 +12,7 @@
 
 - :books: Co-Founder [coautho.co](https://coauthor.co/)
 
-- :email: ask me about anything, I am happy to help if I can :salute: [here](https://github.com/Antonio-Bellifemine/Antonio-Bellifemine/issues)
+- :email: ask me about anything, I am happy to help if I can :muscle: [here](https://github.com/Antonio-Bellifemine/Antonio-Bellifemine/issues)
 
 - :briefcasebriefcase: Questions, offers, or just say hi --> [Email](mailto:abellifemine@proton.me) 📧
 
